@@ -23,3 +23,9 @@
 - 💬 Ask me about **AWS Docker Jenkins Linux Terraform**
 
 - 📫 How to reach me **gaurishirkande11111@gmail.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&layout=compact" alt="gauri17-pro" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en" alt="gauri17-pro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&" alt="gauri17-pro" /></p>
