@@ -14,7 +14,7 @@
 
 <h1 align="center">Hey, I'm Gauri 👩‍💻</h1>
 
-<p> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
 
 - 💻 I’m currently learning **Kubernetes**
 
