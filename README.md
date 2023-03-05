@@ -16,11 +16,11 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
 
-- 💻 I’m a **DevOps Enthusiast**
+- 💻 I’m a **DevOps and Cloud Enthusiast**
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
-- 💬 Ask me about **AWS Docker Jenkins Linux Terraform**
+- 💬 Ask me about **AWS Docker Jenkins Linux Terraform Kubernetes**
 
 - 📫 How to reach me **gaurishirkande11111@gmail.com**
 
