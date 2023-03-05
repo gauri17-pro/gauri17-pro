@@ -14,8 +14,8 @@
 
 <h1 align="center">Hey, I'm Gauri 👩‍💻</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
-<p align="center"> 
+<p> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
+
 - 💻 I’m currently learning **Kubernetes**
 
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
@@ -23,4 +23,3 @@
 - 💬 Ask me about **AWS Docker Jenkins Linux Terraform**
 
 - 📫 How to reach me **gaurishirkande11111@gmail.com*
-</p>
