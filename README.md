@@ -22,4 +22,4 @@
 
 - 💬 Ask me about **AWS Docker Jenkins Linux Terraform**
 
-- 📫 How to reach me **gaurishirkande11111@gmail.com*
+- 📫 How to reach me **gaurishirkande11111@gmail.com**
