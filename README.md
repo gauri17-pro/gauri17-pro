@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **AWS Docker Jenkins Linux Terraform Kubernetes**
 
-- 📫 How to reach me **gaurishirkande11111@gmail.com**
+- 📫 Reach out to me at **gaurishirkande11111@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&layout=compact" alt="gauri17-pro" /></p>
 
