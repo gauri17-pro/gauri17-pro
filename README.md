@@ -18,6 +18,10 @@
 
 - 💻 I’m a **DevOps and Cloud Enthusiast**
 
+- 🌱 I'm a **YouTuber** 
+
+- 🔭 Exploring content creation
+
 - 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
 - 💬 Ask me about **AWS Docker Jenkins Linux Terraform Kubernetes**
