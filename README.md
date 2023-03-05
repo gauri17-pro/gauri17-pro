@@ -24,8 +24,6 @@
 
 - 📫 How to reach me **gaurishirkande11111@gmail.com**
 
-<hr>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauri17-pro&show_icons=true&locale=en&layout=compact" alt="gauri17-pro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en" alt="gauri17-pro" /></p>
