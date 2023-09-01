@@ -15,7 +15,7 @@
 </div>
 
 
-<h1 align="center">Hey, I'm Gauri 👩‍💻</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey+%F0%9F%91%8B%2C+I+am+Gauri+Shirkande+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+DevOps!%F0%9F%9A%80)](https://git.io/typing-svg)</h1>
 
 <h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
 
