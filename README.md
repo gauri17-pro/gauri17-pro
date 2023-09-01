@@ -9,6 +9,9 @@
   <a href="https://www.youtube.com/@codewithgauri">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://twitter.com/Gauri38324115">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 
@@ -17,10 +20,6 @@
 <h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
 
 <p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
-
-<h1></h1>
-
-<p align="center"> <a href="https://twitter.com/Gauri38324115" target="blank"><img src="https://img.shields.io/twitter/follow/gauri17-pro?logo=twitter&style=for-the-badge" alt="gauri17-pro" /></a> </p>
 
 <h1></h1>
 
