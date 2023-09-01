@@ -53,7 +53,6 @@
 <a href="https://gauris.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sumanprasad.hashnode.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@codewithgauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithgauri/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gauris_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauris_17" height="30" width="40" /></a>
-<a href="/https://sumanprasad.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sumanprasad.hashnode.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
