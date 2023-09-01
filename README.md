@@ -31,7 +31,7 @@
 
 - 🌱 I'm a **YouTuber**
 
-- 📝 I write articles on [https://medium.com/@gaurishirkande11111](Medium)
+- 📝 I write articles on [Medium](https://medium.com/@gaurishirkande11111)
 
 - 🔭 Exploring content creation
 
