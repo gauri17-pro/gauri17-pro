@@ -18,6 +18,8 @@
 
 <p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
 
+<hr>
+
 <p> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
 
 - 💻 I’m a **DevOps and Cloud Enthusiast**
