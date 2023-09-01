@@ -20,6 +20,10 @@
 
 <h1></h1>
 
+<p align="center"> <a href="https://twitter.com/Gauri38324115" target="blank"><img src="https://img.shields.io/twitter/follow/gauri17-pro?logo=twitter&style=for-the-badge" alt="gauri17-pro" /></a> </p>
+
+<h1></h1>
+
 <p> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
 
 - 💻 I’m a **DevOps and Cloud Enthusiast**
