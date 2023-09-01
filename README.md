@@ -36,4 +36,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri17-pro&show_icons=true&locale=en&theme=radical" alt="gauri17-pro" width="420"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=light" alt="gauri17-pro" width="420" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri17-pro&theme=radical" alt="gauri17-pro" width="420" />
