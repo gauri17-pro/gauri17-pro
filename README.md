@@ -14,13 +14,11 @@
 
 <h1 align="center">Hey, I'm Gauri 👩‍💻</h1>
 
-<div id="intro">
-
 <h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
 
 <p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
 
-</div>
+<h1></h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
 
