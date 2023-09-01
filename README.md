@@ -27,21 +27,21 @@
 
 <div align="center">
 
-- 💻 I’m a **DevOps and Cloud Enthusiast**
+💻 I’m a **DevOps and Cloud Enthusiast**
 
-- 🛠️ **AWS Community Builder 🔄**
+🛠️ **AWS Community Builder 🔄**
 
-- 🌱 I'm a **YouTuber**
+🌱 I'm a **YouTuber**
 
-- 📝 I write articles on [Medium](https://medium.com/@gaurishirkande11111)
+📝 I write articles on [Medium](https://medium.com/@gaurishirkande11111)
 
-- 🔭 Exploring content creation
+🔭 Exploring content creation
 
-- 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
+🤩 I’m looking to collaborate on **AWS and DevOps Projects**
 
-- 💬 Ask me about **AWS Docker Jenkins Linux Terraform Kubernetes**
+💬 Ask me about **AWS Docker Jenkins Linux Terraform Kubernetes**
 
-- 📫 Reach out to me at **gaurishirkande11111@gmail.com**
+📫 Reach out to me at **gaurishirkande11111@gmail.com**
 
 </div>
 
