@@ -19,7 +19,7 @@
 
 <h3 align="center">An Enthusiast Cloud DevOps Engineer from India</h3>
 
-<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=1"/></p>
+<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=gauri17-pro&theme=radical&row=1"/></p>
 
 <h1></h1>
 
