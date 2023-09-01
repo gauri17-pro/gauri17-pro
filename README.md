@@ -27,6 +27,8 @@
 
 - 💻 I’m a **DevOps and Cloud Enthusiast**
 
+- 🛠️ **AWS Community Builder 🔄**
+
 - 🌱 I'm a **YouTuber** 
 
 - 🔭 Exploring content creation
