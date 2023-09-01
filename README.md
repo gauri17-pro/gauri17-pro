@@ -47,7 +47,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/Gauri38324115" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dezeen.com%2F2023%2F07%2F24%2Ftwitter-rebrand-x-powered-ai%2F&psig=AOvVaw2qW6D1yJPELT6hB4jqi1_X&ust=1693676942370000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjktI_8iYEDFQAAAAAdAAAAABAE" alt="gauri17-pro" height="30" width="40" /></a>
+<a href="https://twitter.com/Gauri38324115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauri17-pro" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gauri-shirkande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri17-pro" height="30" width="40" /></a>
 <a href="https://www.instagram.com/code_with_gauri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_gauri" height="30" width="40" /></a>
 <a href="https://gauris.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sumanprasad.hashnode.dev" height="30" width="40" /></a>
