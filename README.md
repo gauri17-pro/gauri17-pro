@@ -23,8 +23,6 @@
 
 <h1></h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauri17-pro&style=flat-square&color=blue" alt=""/> </p>
-
 <div align="center">
 
 💻 I’m a **DevOps and Cloud Enthusiast**
