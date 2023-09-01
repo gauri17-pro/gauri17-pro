@@ -29,7 +29,9 @@
 
 - 🛠️ **AWS Community Builder 🔄**
 
-- 🌱 I'm a **YouTuber** 
+- 🌱 I'm a **YouTuber**
+
+- 📝 I write articles on [https://medium.com/@gaurishirkande11111](Medium)
 
 - 🔭 Exploring content creation
 
